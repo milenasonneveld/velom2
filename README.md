@@ -10,5 +10,5 @@ Sponsored by
 Sponsors
 
 deBuren                             DutchCulture                           POC21
-![alt text](https://ciklic.wordpress.com/velom2/poc21-2/)
+![alt text](https://ciklic.files.wordpress.com/2015/06/poc21.png)
 
