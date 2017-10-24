@@ -31,5 +31,8 @@ Follow us on twitter [@velom2bxl](https://twitter.com/velom2bxl) and on Facebook
 Scroll down do find out more …
 
 
-![alt text](https://ciklic.files.wordpress.com/2015/06/poc21.png)
+!(https://ciklic.files.wordpress.com/2015/06/poc21.png)
+!(https://github.com/milenasonneveld/velom2/blob/master/def-logo-ysebaert-alg.jpg?raw=true)
+!(https://github.com/milenasonneveld/velom2/blob/master/fba964ba0345e62b66f6.jpg?raw=true)
+!(https://github.com/milenasonneveld/velom2/blob/master/beplanet_logoecran.jpg?raw=true)
 
