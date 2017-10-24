@@ -1,5 +1,5 @@
 # Vélo M²
-![velo M2 logo](https://github.com/milenasonneveld/velom2/blob/master/logo_green_hex-01.png)
+![velo M2 logo](https://github.com/milenasonneveld/velom2/blob/master/logo_green_hex-01.png?raw=true)
 
 
 
